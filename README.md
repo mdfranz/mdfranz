@@ -1,5 +1,11 @@
 I'm using this account again but a lot is over on [Gitlab](http://gitlab.com/mdfranz)
 
+I'm on Mastodon on multiple servers:
+- [AWS Community](https://awscommunity.social/@mdfranz) - getting more active here
+- [InfoSec Exchange](https://infosec.exchange/@mdfranz) - pretty active here as lots of folks moved over from Twitter
+- [IOS Exchange](https://ioc.exchange/@mdfranz) - I mostly consume news and non-tech content here. 
+
+
 <!---
 mdfranz/mdfranz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
