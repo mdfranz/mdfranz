@@ -1,4 +1,4 @@
-I'm using this account again but a lot is over on [Gitlab](https://gitlab.com/mdfranz) also see my blog at [Medium](https://blog.mdfranz.com)
+I'm using this account again but a lot is over on [Gitlab](https://gitlab.com/mdfranz) also see my blog at [Medium](https://blog.mdfranz.com) and my [LinkedIn Page](https://www.linkedin.com/in/matthewdfranz/)
 
 I'm on Mastodon on multiple servers:
 - [AWS Community](https://awscommunity.social/@mdfranz) - getting more active here
