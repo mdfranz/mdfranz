@@ -9,6 +9,11 @@ I'm on the following Slack Groups
 - [Rands Leadership Slack](https://rands-leadership.slack.com/)
 - [Baltimore Tech Slack](https://baltimoretech.slack.com/)
 
+I'm on the following Discord Servers (or WTF they are called)
+- [Vector](https://discord.com/invite/dX3bdkF)
+- [Suricata](https://discord.gg/t3rV2x7MrG)
+- [DuckDB](https://discord.duckdb.org/)
+
 See [gitlab commits](https://gitlab.com/users/mdfranz/activity)
 
 <!---
