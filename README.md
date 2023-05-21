@@ -13,6 +13,7 @@ I'm on the following Slack Groups
 - [Baltimore Tech Slack](https://baltimoretech.slack.com/)
 
 I'm on the following Discord Servers (or WTF they are called)
+- [Benthos](https://discord.gg/6VaWjzP)
 - [Vector](https://discord.com/invite/dX3bdkF)
 - [Suricata](https://discord.gg/t3rV2x7MrG)
 - [DuckDB](https://discord.duckdb.org/)
