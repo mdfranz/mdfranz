@@ -6,7 +6,7 @@ I'm on Mastodon on multiple servers:
 - [IOS Exchange](https://ioc.exchange/@mdfranz) - I mostly consume news and non-tech content here. 
 
 I'm on the following Slack Groups
-- [Rands Leadership Slack](https://rands.slack.com/)
+- [Rands Leadership Slack](https://rands-leadership.slack.com/)
 - [Baltimore Tech Slack](https://baltimoretech.slack.com/)
 
 See [gitlab commits](https://gitlab.com/users/mdfranz/activity)
