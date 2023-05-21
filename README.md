@@ -1,5 +1,8 @@
 I'm using this account again but a lot is over on [Gitlab](https://gitlab.com/mdfranz) also see my blog at [Medium](https://blog.mdfranz.com) and my [LinkedIn Page](https://www.linkedin.com/in/matthewdfranz/)
 
+See [gitlab commits](https://gitlab.com/users/mdfranz/activity) where I maintain some a knowledge base aka my personal awesome lists. 
+
+
 I'm on Mastodon on multiple servers:
 - [AWS Community](https://awscommunity.social/@mdfranz) - getting more active here
 - [InfoSec Exchange](https://infosec.exchange/@mdfranz) - pretty active here as lots of folks moved over from Twitter
@@ -15,7 +18,6 @@ I'm on the following Discord Servers (or WTF they are called)
 - [DuckDB](https://discord.duckdb.org/)
 - [LangChain](https://discord.com/invite/6adMQxSpJS)
 
-See [gitlab commits](https://gitlab.com/users/mdfranz/activity)
 
 <!---
 mdfranz/mdfranz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
