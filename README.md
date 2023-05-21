@@ -5,6 +5,10 @@ I'm on Mastodon on multiple servers:
 - [InfoSec Exchange](https://infosec.exchange/@mdfranz) - pretty active here as lots of folks moved over from Twitter
 - [IOS Exchange](https://ioc.exchange/@mdfranz) - I mostly consume news and non-tech content here. 
 
+I'm on the following Slack Groups
+- [Rands Leadership Slack](https://rands.slack.com/)
+- [Baltimore Tech Slack](https://baltimoretech.slack.com/)
+
 See [gitlab commits](https://gitlab.com/users/mdfranz/activity)
 
 <!---
