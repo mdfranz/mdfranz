@@ -13,6 +13,7 @@ I'm on the following Discord Servers (or WTF they are called)
 - [Vector](https://discord.com/invite/dX3bdkF)
 - [Suricata](https://discord.gg/t3rV2x7MrG)
 - [DuckDB](https://discord.duckdb.org/)
+- [LangChain](https://discord.com/invite/6adMQxSpJS)
 
 See [gitlab commits](https://gitlab.com/users/mdfranz/activity)
 
