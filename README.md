@@ -2,7 +2,7 @@ I'm using this account again but a lot is over on [Gitlab](https://gitlab.com/md
 
 See [gitlab commits](https://gitlab.com/users/mdfranz/activity) where I maintain some a knowledge base aka my personal awesome lists. 
 
-I don't speak or write like I used to in the 2000's but (here)[https://github.com/mdfranz/pubs] are some links to past public work in Security, Cloud, and ICS besides what is on my blog. 
+I don't speak or write like I used to in the 2000's but [here](https://github.com/mdfranz/pubs) are some links to past public work in Security, Cloud, and ICS besides what is on my blog. 
 
 I'm on Mastodon on multiple servers:
 - [AWS Community](https://awscommunity.social/@mdfranz) - getting more active here
