@@ -4,16 +4,21 @@ I recently moved my personal notes called [cheetsheetz](https://github.com/mdfra
 
 I don't speak or write like I used to in the 2000's but [here](https://github.com/mdfranz/pubs) are some links to past public work in Security, Cloud, and ICS besides what is on my blog. 
 
+Schedule a meeting on [Calendly](https://calendly.com/matthewdfranz/)
+
+
+# Social Media
+
 I'm on Mastodon on multiple servers:
 - [AWS Community](https://awscommunity.social/@mdfranz) - getting more active here
 - [InfoSec Exchange](https://infosec.exchange/@mdfranz) - pretty active here as lots of folks moved over from Twitter
-- [IOS Exchange](https://ioc.exchange/@mdfranz) - I mostly consume news and non-tech content here. 
 
-Schedule a meeting on [Calendly](https://calendly.com/matthewdfranz/)
 
 
 I'm starting to get more active on Bluesky:
 - [@mdfranz.bsky.social](https://bsky.app/profile/mdfranz.bsky.social)
+
+# Chat 
 
 I'm on the following Slack Groups
 - [Rands Leadership Slack](https://rands-leadership.slack.com/)
