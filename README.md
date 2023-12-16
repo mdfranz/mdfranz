@@ -9,9 +9,11 @@ I'm on Mastodon on multiple servers:
 - [InfoSec Exchange](https://infosec.exchange/@mdfranz) - pretty active here as lots of folks moved over from Twitter
 - [IOS Exchange](https://ioc.exchange/@mdfranz) - I mostly consume news and non-tech content here. 
 
-I have a placeholder account on Bluesky:
-- [@mdfranz.bsky.social](https://bsky.app/profile/mdfranz.bsky.social)
+Schedule a meeting on [https://calendly.com/matthewdfranz/](Calendly)
 
+
+I'm starting to get more active on Bluesky:
+- [@mdfranz.bsky.social](https://bsky.app/profile/mdfranz.bsky.social)
 
 I'm on the following Slack Groups
 - [Rands Leadership Slack](https://rands-leadership.slack.com/)
