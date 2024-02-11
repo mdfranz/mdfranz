@@ -1,8 +1,8 @@
 # Hello There! 
 
-I'm using this account again but a lot is over on [Gitlab](https://gitlab.com/mdfranz) also see my blog at [Medium](https://blog.mdfranz.com) and my [LinkedIn Page](https://www.linkedin.com/in/matthewdfranz/) and [gitlab commits](https://gitlab.com/users/mdfranz/activity) 
+I'm using this account again, but a lot is over on [Gitlab](https://gitlab.com/mdfranz) also see my blog at [Medium](https://blog.mdfranz.com) or my [LinkedIn Page](https://www.linkedin.com/in/matthewdfranz/) and [gitlab commits](https://gitlab.com/users/mdfranz/activity) to see what I'm interested in over the years. 
 
-I recently moved my personal notes called [cheetsheetz](https://github.com/mdfranz/cheetsheetz) here it has links and notes on a variety of tech topics. 
+I recently moved my personal notes called [cheetsheetz](https://github.com/mdfranz/cheetsheetz) here it has links and notes on a variety of tech topics, also a good sense of where I travel. 
 
 I don't speak at conferences I used to in the 2000's but [here](https://github.com/mdfranz/pubs) are some links to past public work in Security, Cloud, and ICS besides what is on my [blog](https://blog.mdfranz.com). 
 
