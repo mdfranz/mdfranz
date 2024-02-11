@@ -4,7 +4,7 @@ I'm using this account again but a lot is over on [Gitlab](https://gitlab.com/md
 
 I recently moved my personal notes called [cheetsheetz](https://github.com/mdfranz/cheetsheetz) here it has links and notes on a variety of tech topics. 
 
-I don't speak or write like I used to in the 2000's but [here](https://github.com/mdfranz/pubs) are some links to past public work in Security, Cloud, and ICS besides what is on my blog. 
+I don't speak at conferences I used to in the 2000's but [here](https://github.com/mdfranz/pubs) are some links to past public work in Security, Cloud, and ICS besides what is on my [blog](https://blog.mdfranz.com). 
 
 Schedule a meeting on [Calendly](https://calendly.com/matthewdfranz/)
 
