@@ -18,7 +18,7 @@ I'm on Mastodon on multiple servers:
 
 
 I'm starting to get more active on Bluesky:
-- [@mdfranz.bsky.social](https://bsky.app/profile/mdfranz.bsky.social)
+- [Bluesky](https://bsky.app/mdfranz.com)
 
 # Chat 
 
