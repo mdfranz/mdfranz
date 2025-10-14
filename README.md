@@ -6,6 +6,7 @@ I recently moved my personal notes called [cheetsheetz](https://github.com/mdfra
 
 I don't speak at conferences I used to in the 2000's but [here](https://github.com/mdfranz/pubs) are some links to past public work in Security, Cloud, and ICS besides what is on my [blog](https://blog.mdfranz.com). 
 
+I'm not on social media much anymore but I still post occasionally on [infosec.exchange](https://infosec.exchange/@mdfranz) and [substack](https://substack.com/@mdfranz)
 
 <!---
 mdfranz/mdfranz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
