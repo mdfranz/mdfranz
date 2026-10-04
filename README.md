@@ -1,6 +1,6 @@
 # Hello There! 
 
-I'm not on real social media much anymore but I still post occasionally on [infosec.exchange](https://infosec.exchange/@mdfranz) and [substack](https://substack.com/@mdfranz) and [Bluesky](https://bsky.app/profile/mdfranz.bsky.social)
+I still post occasionally on [infosec.exchange](https://infosec.exchange/@mdfranz) and [substack](https://substack.com/@mdfranz) and [Bluesky](https://bsky.app/profile/mdfranz.bsky.social)
 
 Also see old work [Gitlab](https://gitlab.com/mdfranz) also see my blog at [Ghost](https://blog.mdfranz.com) or my [LinkedIn Page](https://www.linkedin.com/in/matthewdfranz/) and [gitlab commits](https://gitlab.com/users/mdfranz/activity) to see what I'm interested in over the years. 
 
